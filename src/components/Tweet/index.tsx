@@ -31,25 +31,25 @@ const Tweet: React.FC = () => {
 
         <Content>
           <Header>
-            <strong>Rocketseat</strong>
-            <span>@rocketseat</span>
+            <strong>ModalGR</strong>
+            <span>@modalgr</span>
             <Dot />
-            <time>27 de jun</time>
+            <time>16 de março</time>
           </Header>
 
           {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
-          <Description>Foguete não tem ré 🚀</Description>
+          <Description>#PraCima 🚀</Description>
 
           <ImageContent />
 
           <Icons>
             <Status>
               <CommentIcon />
-              18
+              25
             </Status>
             <Status>
               <RetweetIcon />
-              18
+              50
             </Status>
             <Status>
               <LikeIcon />
