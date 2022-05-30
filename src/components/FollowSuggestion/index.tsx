@@ -14,7 +14,7 @@ const FollowSuggestion: React.FC<Props> = ({ name, nickname }) => {
         <Avatar />
 
         <Info>
-<!--           <strong>{name}</strong> -->
+          <strong>{name}</strong>
           <span>{nickname}</span>
         </Info>
       </div>
